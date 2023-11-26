@@ -1,0 +1,9 @@
+.point{
+	position:absolute;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	float: bottom;
+	width: 2px;
+	height: 2px;
+	border: 0px;
+}
